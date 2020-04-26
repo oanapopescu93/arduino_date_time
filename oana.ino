@@ -5,8 +5,8 @@
 // the OLED used
 U8X8_SSD1306_128X64_NONAME_SW_I2C u8x8(/* clock=*/ 15, /* data=*/ 4, /* reset=*/ 16);
 
-const char* ssid       = "UPCFB8C751";
-const char* password   = "npz6jzMpbjzw";
+const char* ssid       = "YOUR SSIS";
+const char* password   = "YOUR SSIS PASSWORD";
 
 const char* ntpServer = "pool.ntp.org";
 const long  gmtOffset_sec = 7200;
